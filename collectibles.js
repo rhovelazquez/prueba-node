@@ -22,7 +22,7 @@ function importar(marcaFiguras){
     }
     return marca;
 }
-//let lista=importar("Star Wars")
+//let lista=importar("Star Wars") VERIFICAR SI FUNCION
 //console.log(lista);
 module.exports= {importar};
 
